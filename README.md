@@ -1,0 +1,2 @@
+# agumonbot
+discord bot
